@@ -1,4 +1,4 @@
-package es.amadorcf.api_gateway.config;
+package es.amadorcf.api_gateway.routes;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.cloud.gateway.server.mvc.filter.CircuitBreakerFilterFunctions;
